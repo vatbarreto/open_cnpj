@@ -1,0 +1,32 @@
+{
+  "name": "open_cnpj",
+  "version": "1.0.0",
+  "description": "Dados Abertos de CNPJs Cadastrados na Receita Federal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatbarreto/open_cnpj.git"
+  },
+  "keywords": [
+    "cnpj",
+    "dados",
+    "abertos",
+    "open",
+    "data",
+    "receita",
+    "federal"
+  ],
+  "author": "Vinícius Barreto",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vatbarreto/open_cnpj/issues"
+  },
+  "homepage": "https://github.com/vatbarreto/open_cnpj#readme",
+  "dependencies": {
+    "puppeteer": "^23.4.0"
+  }
+}
